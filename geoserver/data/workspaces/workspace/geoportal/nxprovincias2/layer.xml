@@ -1,0 +1,17 @@
+<layer>
+  <name>nxprovincias2</name>
+  <id>LayerInfoImpl-144b69f0:1743803a8b2:-7fc5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fc4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-144b69f0:1743803a8b2:-7fc6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-09-01 17:48:06.502 UTC</dateCreated>
+  <dateModified>2020-09-01 17:50:28.627 UTC</dateModified>
+</layer>

@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f9d</id>
+  <name>aeropuertos2</name>
+  <nativeName>aeropuerto_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>aeropuerto_p</title>
+  <keywords>
+    <string>features</string>
+    <string>aeropuerto_p</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>501336.78125</minx>
+    <maxx>1019300.8125</maxx>
+    <miny>9515974.0</miny>
+    <maxy>1.0107946E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-80.98798667165565</minx>
+    <maxx>-76.32486393916736</maxx>
+    <miny>-4.379049439500595</miny>
+    <maxy>0.9766203529095021</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7fc6</id>
+  <name>via_l</name>
+  <nativeName>via_l</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>via_l</title>
+  <keywords>
+    <string>features</string>
+    <string>via_l</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>516361.59375</minx>
+    <maxx>1109917.875</maxx>
+    <miny>9465099.0</miny>
+    <maxy>1.0140312E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-80.85296124524098</minx>
+    <maxx>-75.50789003080955</maxx>
+    <miny>-4.83928567089058</miny>
+    <maxy>1.2694403846926865</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

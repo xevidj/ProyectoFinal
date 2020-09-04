@@ -1,0 +1,17 @@
+<layer>
+  <name>poblacion</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7f94</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fdd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f95</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-29 01:27:42.321 UTC</dateCreated>
+  <dateModified>2020-09-01 17:06:33.348 UTC</dateModified>
+</layer>

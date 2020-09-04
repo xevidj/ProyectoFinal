@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f97</id>
+  <name>islas</name>
+  <nativeName>isla_a</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>isla_a</title>
+  <keywords>
+    <string>features</string>
+    <string>isla_a</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>490675.125</minx>
+    <maxx>1151175.75</maxx>
+    <miny>9503565.0</miny>
+    <maxy>1.0162285E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-81.08405666643185</minx>
+    <maxx>-75.14051466813301</maxx>
+    <miny>-4.491306064530078</miny>
+    <maxy>1.468238495038184</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

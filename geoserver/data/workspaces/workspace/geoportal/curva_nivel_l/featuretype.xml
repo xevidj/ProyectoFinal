@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f93</id>
+  <name>curva_nivel_l</name>
+  <nativeName>curva_nivel_l</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>curva_nivel_l</title>
+  <keywords>
+    <string>features</string>
+    <string>curva_nivel_l</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>510552.3125</minx>
+    <maxx>1143497.0</maxx>
+    <miny>9445670.0</miny>
+    <maxy>1.0147015E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-80.90516813324267</minx>
+    <maxx>-75.2050267165479</maxx>
+    <miny>-5.015062053293654</miny>
+    <maxy>1.330086589597601</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

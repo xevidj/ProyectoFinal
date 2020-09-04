@@ -1,0 +1,17 @@
+<layer>
+  <name>aeropuertos2</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7f9c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fca</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f9d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-29 00:55:56.710 UTC</dateCreated>
+  <dateModified>2020-09-01 17:41:10.300 UTC</dateModified>
+</layer>

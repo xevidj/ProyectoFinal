@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f95</id>
+  <name>poblacion</name>
+  <nativeName>poblacion</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>poblacion</title>
+  <keywords>
+    <string>features</string>
+    <string>poblacion</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>218269.0</minx>
+    <maxx>1146076.0</maxx>
+    <miny>9449771.0</miny>
+    <maxy>1.0160319E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-83.54052255879274</minx>
+    <maxx>-75.18220742046654</maxx>
+    <miny>-4.97792191742602</miny>
+    <maxy>1.4504395495942246</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

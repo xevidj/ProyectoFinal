@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-144b69f0:1743803a8b2:-7ff6</id>
+  <name>rio_l</name>
+  <nativeName>rio_l</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>rio_l</title>
+  <keywords>
+    <string>features</string>
+    <string>rio_l</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>508897.0</minx>
+    <maxx>1168585.875</maxx>
+    <miny>9445302.0</miny>
+    <maxy>1.0165024E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-80.92004471324873</minx>
+    <maxx>-74.97988759856408</maxx>
+    <miny>-5.018393210145165</miny>
+    <maxy>1.493019038594681</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

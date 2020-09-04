@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7fc2</id>
+  <name>nxcantones</name>
+  <nativeName>nxcantones</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>nxcantones</title>
+  <keywords>
+    <string>features</string>
+    <string>nxcantones</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>-732143.5</minx>
+    <maxx>1147851.75</maxx>
+    <miny>9445216.0</miny>
+    <maxy>1.0189399E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-92.04525455148199</minx>
+    <maxx>-75.16591106260438</maxx>
+    <miny>-5.019148182072534</miny>
+    <maxy>1.713537509777097</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

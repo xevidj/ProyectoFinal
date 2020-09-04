@@ -1,0 +1,17 @@
+<layer>
+  <name>via_l</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7fc5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fb6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7fc6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-28 18:09:52.111 UTC</dateCreated>
+  <dateModified>2020-09-01 18:33:21.227 UTC</dateModified>
+</layer>

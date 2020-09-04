@@ -1,0 +1,17 @@
+<layer>
+  <name>rio_l</name>
+  <id>LayerInfoImpl-144b69f0:1743803a8b2:-7ff5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fc0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-144b69f0:1743803a8b2:-7ff6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-30 20:53:03.479 UTC</dateCreated>
+  <dateModified>2020-09-01 17:58:22.824 UTC</dateModified>
+</layer>

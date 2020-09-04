@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f99</id>
+  <name>ferrocarril2</name>
+  <nativeName>linea_tren_l</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--70e34146:173a1cf27ed:-7ffe</id>
+  </namespace>
+  <title>linea_tren_l</title>
+  <keywords>
+    <string>features</string>
+    <string>linea_tren_l</string>
+  </keywords>
+  <srs>EPSG:32717</srs>
+  <nativeBoundingBox>
+    <minx>515581.34375</minx>
+    <maxx>820210.375</maxx>
+    <miny>9677487.0</miny>
+    <maxy>1.0142569E7</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-80.85997426857222</minx>
+    <maxx>-78.11986461355431</maxx>
+    <miny>-2.9178421857722765</miny>
+    <maxy>1.2898603998824019</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--7559b1d8:1742b71a813:-7fcb</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

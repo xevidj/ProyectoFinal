@@ -1,0 +1,17 @@
+<layer>
+  <name>curva_nivel_l</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7f92</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fbd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7f93</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-29 01:44:44.440 UTC</dateCreated>
+  <dateModified>2020-09-01 18:19:49.310 UTC</dateModified>
+</layer>

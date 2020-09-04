@@ -1,0 +1,22 @@
+<layer>
+  <name>nxprovincias</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7fc7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fe0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fe0</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7fc8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-28 18:00:02.982 UTC</dateCreated>
+  <dateModified>2020-08-31 03:31:35.841 UTC</dateModified>
+</layer>

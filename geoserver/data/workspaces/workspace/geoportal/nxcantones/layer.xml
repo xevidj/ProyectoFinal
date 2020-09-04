@@ -1,0 +1,17 @@
+<layer>
+  <name>nxcantones</name>
+  <id>LayerInfoImpl--7559b1d8:1742b71a813:-7fc1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-144b69f0:1743803a8b2:-7fa8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7559b1d8:1742b71a813:-7fc2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-28 20:38:39.498 UTC</dateCreated>
+  <dateModified>2020-09-01 18:36:24.230 UTC</dateModified>
+</layer>
